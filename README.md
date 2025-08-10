@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kim Allen Castillo</h1>
-<h3 align="center">A passionate Software Engineer from Philippines</h3>
+<h3 align="center">A passionate Software Developer from Philippines</h3>
 
 
 - 🌱 I’m currently learning **Threejs, Tensorflow, Data Structures**
